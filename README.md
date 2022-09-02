@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with React JS
-- 💬 Ask me about .
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cinematographer
 
