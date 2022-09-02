@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Damian 👋
+
+- 🔭 I’m currently working on building my portfolio
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on Frontend Projects
+- 🤔 I’m looking for help with React JS
+- 💬 Ask me about .
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a cinematographer
 
 <!--
 **Damianpad/Damianpad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
