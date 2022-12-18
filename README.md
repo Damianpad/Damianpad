@@ -1,4 +1,5 @@
 ### Hi there, I'm Damian 👋
+[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damianpad)](https://github.com/Damianpad/github-readme-stats)
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning React JS
