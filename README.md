@@ -1,6 +1,6 @@
 ## Hi there, I'm Damian 👋
 
-I’m a full stack software engineer with a passion for technology and creativity. In a nutshell, I create websites and web applications that solve problems and address business challenges. My expertise lies within front-end apps with the main languages in my tech stack including JavaScript, React, and of course HTML/CSS. Learning is a lifelong skill and on top of that, I love to read, spend time with family and take care of my garden.
+I’m a full stack software engineer with a passion for technology and creativity. In a nutshell, I create full stack websites and web applications that solve problems and address business challenges. My expertise and tech stack includes MongoDB, Express, React, NODE.js (MERN). Learning is a lifelong skill and on top of that, I love to read, spend time with family and take care of my garden.
 
 <p align="center">
   <a href="https://www.damianpadilla.com" target="_blank">
