@@ -9,9 +9,10 @@ I’m a full stack software engineer with a passion for technology and creativit
 <p align="center">
   <a href="https://twitter.com/damipad"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://twitter.com/damipad](https://user-images.githubusercontent.com/62222815/208494320-c7facf54-a49c-4d48-98e9-e73dd78fdcf7.svg)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  
+  <a href="https://www.linkedin.com/in/damianpad/"><img width="32px" alt="Twitter" title="Twitter" src="(https://user-images.githubusercontent.com/62222815/208494320-c7facf54-a49c-4d48-98e9-e73dd78fdcf7.svg)"/></a>
 
+  ![linkedin](https://user-images.githubusercontent.com/62222815/208494320-c7facf54-a49c-4d48-98e9-e73dd78fdcf7.svg)
+  
 </p>
 
 
