@@ -2,6 +2,18 @@
 
 I’m a full stack software engineer with a passion for technology and creativity. In a nutshell, I create websites and web applications that solve problems and address business challenges. My expertise lies within front-end apps with the main languages in my tech stack including JavaScript, React, and of course HTML/CSS. Learning is a lifelong skill and on top of that, I love to read, spend time with family and take care of my garden.
 
+<p align="center">
+  <a href="https://www.damianpadilla.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=for-the-badge&logo=googlechrome&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/damianpad/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=blue&style=for-the-badge&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/damipad" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=blue&style=for-the-badge&logo=twitter&logo-color=white"/>
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning React JS
