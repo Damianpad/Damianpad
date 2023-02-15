@@ -22,6 +22,8 @@ I’m a full stack software engineer with a passion for technology and creativit
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cinematographer
 
+![Code Wars](https://www.codewars.com/users/Damianpad4/badges/large)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Damianpad&theme=dark)](https://git.io/streak-stats)
 
 [![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damianpad)](https://github.com/Damianpad/github-readme-stats)
