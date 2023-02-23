@@ -16,9 +16,8 @@ I’m a full stack software engineer with a passion for technology and creativit
 
 
 - 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Frontend Projects
-- 🤔 I’m looking for help with React JS
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Fullstack Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cinematographer
 
