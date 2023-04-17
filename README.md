@@ -1,6 +1,6 @@
 ## Hi there, I'm Damian 👋
 
-I’m a full stack software engineer with a passion for technology and creativity. In a nutshell, I create full stack websites and web applications that solve problems and address business challenges. My expertise and tech stack includes MongoDB, Express, React, NODE.js (MERN). Learning is a lifelong skill and on top of that, I love to read, spend time with family and take care of my garden.
+As a passionate fullstack software engineer with expertise in the MERN stack, I have a proven track record of delivering scalable and efficient fullstack web applications. My dedication to constantly learning and improving my skills has allowed me to stay on top of the latest technologies and trends in software development.
 
 <p align="center">
   <a href="https://www.damianpadilla.com" target="_blank">
@@ -15,8 +15,8 @@ I’m a full stack software engineer with a passion for technology and creativit
 </p>
 
 
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Vivid. A fullstack application that helps freelancers run their business
+- 🌱 I’m currently learning ReactJS, TypeScript, and Tailwind
 - 👯 I’m looking to collaborate on Fullstack Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cinematographer
